@@ -1,0 +1,11 @@
+fastapi[all]
+motor
+numpy
+passlib[pbkdf2_sha256]
+Pillow
+pydantic-settings
+python-dotenv
+PyJWT
+requests
+tensorflow
+uvicorn
